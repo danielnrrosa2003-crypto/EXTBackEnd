@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request  # type: ignore
+from flask import Flask, jsonify, request  
 
 # Inicializa a aplicação Flask sss
 app = Flask(__name__) 
